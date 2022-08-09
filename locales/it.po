@@ -12929,7 +12929,7 @@ msgstr "Scegli la colonna da raggruppare "
 #: frontend/src/metabase/query_builder/components/notebook/steps/DataStep.jsx:62
 #: frontend/src/metabase/query_builder/components/view/NewQuestionHeader.jsx:9
 msgid "Pick your starting data"
-msgstr "Scegli una data d'inizio"
+msgstr "Scegli i dati di partenza"
 
 #: frontend/src/metabase/query_builder/components/notebook/steps/FieldsPicker.jsx:34
 msgid "Select None"
